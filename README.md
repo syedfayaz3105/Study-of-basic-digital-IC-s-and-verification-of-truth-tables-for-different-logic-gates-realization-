@@ -73,8 +73,9 @@ xor (y4,a,b);
 xnor (y5,a,b);
 nand (y6,a,b);
 nor (y7,a,b);
-*/
 ```
+*/
+
 
 Logic symbol & Truthtable
 ![image](https://github.com/syedfayaz3105/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/147144126/4eea4e6d-f36b-48c7-9235-508673c161d1)
@@ -82,7 +83,8 @@ Logic symbol & Truthtable
 
 RTL realization
 Output:
-![image](https://github.com/syedfayaz3105/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/147144126/bb37b2f7-3e64-4066-b500-0b3d36985950)
+![image](https://github.com/syedfayaz3105/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/147144126/5c9711cc-03a3-4c7c-9582-53fc120be302)
+
 
 Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
