@@ -1,5 +1,7 @@
-# Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-
- AIM:
+## Develoed by: Farhana H
+## Register number: 212223230057
+## Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-
+## AIM:
 To study about the different digital IC’s and to verify the truth table in Quartus for the basic logic gates using Verilog programming.
 
 Equipments Required:
@@ -77,7 +79,7 @@ nor (y7,a,b);
 */
 
 
-Logic symbol & Truthtable
+##Logic symbol & Truthtable:
 ![image](https://github.com/syedfayaz3105/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/147144126/4eea4e6d-f36b-48c7-9235-508673c161d1)
 ![image](https://github.com/syedfayaz3105/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/147144126/301107a2-09b1-40c7-b3f6-d29496b1a311)
 
