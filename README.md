@@ -79,11 +79,11 @@ nor (y7,a,b);
 */
 
 
-##Logic symbol & Truthtable:
-![image](https://github.com/syedfayaz3105/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/147144126/4eea4e6d-f36b-48c7-9235-508673c161d1)
-![image](https://github.com/syedfayaz3105/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/147144126/301107a2-09b1-40c7-b3f6-d29496b1a311)
+Truthtable:
+![image](https://github.com/syedfayaz3105/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/147144126/3d5a3fef-437b-46e3-ac3a-8459bf5fa36a)
+RTL realization:
+![image](https://github.com/syedfayaz3105/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/147144126/13f026cc-3986-4357-ba22-11b4c4c3a23a)
 
-RTL realization
 Output:
 ![image](https://github.com/syedfayaz3105/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/147144126/5c9711cc-03a3-4c7c-9582-53fc120be302)
 
